@@ -1,3 +1,3 @@
 # operatingsystems
 Operating Systems -
-This repository includes experiments related to operating systems
+This repository includes all experiments related to operating system coursework
